@@ -35,9 +35,9 @@ logging.basicConfig(filename="assistant.log", level=logging.INFO,
                     format="%(asctime)s - %(levelname)s - %(message)s")
 
 # API Keys
-WEATHER_API_KEY = "7a4d0893af9441a3839155827251104"  # Replace with your WeatherAPI key
-NEWS_API_KEY = "a24d2223592240dbb428333aecc8b204"  # Replace with your NewsAPI key
-BING_SEARCH_API_KEY = "374f293f-84c1-4409-9795-72354051a8a9"  # Replace with your Bing Search API key
+WEATHER_API_KEY = "******"  # Replace with your WeatherAPI key
+NEWS_API_KEY = "**********"  # Replace with your NewsAPI key
+BING_SEARCH_API_KEY = "***********"  # Replace with your Bing Search API key
 
 # TTS Setup
 engine = pyttsx3.init()
