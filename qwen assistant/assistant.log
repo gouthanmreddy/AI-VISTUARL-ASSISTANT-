@@ -1,0 +1,99 @@
+2025-04-15 19:46:38,416 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-15 19:46:38,416 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-15 19:46:41,914 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-15 19:51:42,394 - ERROR - Calendar Error: [Errno 2] No such file or directory: 'credentials.json'
+2025-04-15 19:56:58,262 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-15 19:56:58,262 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-15 19:57:01,659 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-15 19:57:46,512 - ERROR - Calendar Error: Expecting value: line 1 column 1 (char 0)
+2025-04-16 11:31:18,618 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-16 11:31:18,618 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-16 11:31:23,428 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-16 11:32:49,206 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-16 11:32:49,206 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-16 11:32:55,655 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-19 22:22:53,432 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 22:22:53,432 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-19 22:22:57,934 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-20 14:31:24,922 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:31:24,922 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-20 14:31:32,119 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-21 18:57:11,340 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 18:57:11,341 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-21 18:57:14,996 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-22 17:49:54,857 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 17:49:54,857 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-22 17:49:59,115 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-23 02:01:31,868 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-23 02:01:31,868 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-23 02:01:36,223 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-23 09:34:54,107 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-23 09:34:54,107 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-23 09:35:09,335 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-23 11:13:23,481 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-23 11:13:23,481 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-23 11:13:43,787 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-23 13:06:23,762 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-23 13:06:23,764 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-23 13:06:27,957 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:30:20,458 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:30:20,459 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:30:24,998 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:34:23,231 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:34:23,232 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:34:26,877 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:36:54,550 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:36:54,550 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:36:58,096 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:38:08,591 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:38:08,591 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:38:11,963 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:39:21,030 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:39:21,030 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:39:24,539 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:41:22,922 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:41:22,922 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:41:27,073 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:42:24,887 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:42:24,887 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:42:28,825 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:43:29,097 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:43:29,099 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:43:32,453 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:49:54,233 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:49:54,235 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:49:57,683 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:50:59,866 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:50:59,866 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:51:03,302 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 22:53:08,043 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 22:53:08,043 - INFO - Using writeable comtypes cache directory: 'C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-04-25 22:53:11,516 - WARNING - From C:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-16 19:23:13,079 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Goutham\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 19:23:13,080 - INFO - Using writeable comtypes cache directory: 'c:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-05-16 19:23:25,818 - WARNING - From c:\Users\Goutham\AppData\Local\Programs\Python\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-16 19:23:53,612 - ERROR - Model Error: Page id "voice style" does not match any pages. Try another id!
